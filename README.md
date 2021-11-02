@@ -7,10 +7,10 @@ script represents:
 
 
 
-    cd k=2
+    cd k=i
 
-    cd L64
-    cd K2L64
+    cd Lj
+    cd KiLj
     simple main
     cd ..
     cd ..
@@ -19,6 +19,8 @@ script represents:
 
 
 
-Were simple is a costum alias-alocated
+Were i is the number of the kth directory,
+j of the lth sub directory and simple is 
+a costum alias-alocated
 script used for compiling and running 
 C/C++ programs.
