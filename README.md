@@ -6,7 +6,7 @@ up to 2 down-levels, the core of the
 script represents:
 
 
-
+    #!/bin/bash
     cd k=i
 
     cd Lj
